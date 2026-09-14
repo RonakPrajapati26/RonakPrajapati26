@@ -62,19 +62,7 @@ ronak = {
 ---
 
 ### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RonakPrajapati26&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonakPrajapati26&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonakPrajapati26&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RonakPrajapati26&theme=redical&hide_border=true"/>
-</p>
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=RonakPrajapati26&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RonakPrajapati26&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=RonakPrajapati26&theme=radical&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=RonakPrajapati26&theme=redical&hide_border=true"/> </p>
 
 ---
 
