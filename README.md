@@ -16,10 +16,9 @@
 ```yaml
 ronak = {
     name         : "Ronak Prajapati",
-    degree       : "B.Tech CSE  |  YOUR_COLLEGE  |  YOUR_YEARS",
+    degree       : "B.Tech CSE  |  Parul University  |  2023-27",
     role         : "Full-Stack Developer",
     focus        : ["Web Development", "DSA", "Cloud/DevOps"],
-    currently    : "Building cd-lab & leveling up my skills",
     fun_fact     : "I debug better with coffee ☕"
 }
 ```
