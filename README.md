@@ -58,14 +58,6 @@ ronak = {
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Stack | Status |
-|---|---|---|
-| 🧪 **cd-lab** — CD practices repo | `C` | 🟢 Active |
-| 📌 *Your Project 2* — one-line description | `Tech, Tech` | 🟡 In Progress |
-| 📌 *Your Project 3* — one-line description | `Tech, Tech` | 🔵 Planned |
-
 > Swap these rows in for your real projects (link the repo name to its URL, e.g. `[cd-lab](https://github.com/RonakPrajapati26/cd-lab)`).
 
 ---
