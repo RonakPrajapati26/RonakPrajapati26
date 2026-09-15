@@ -19,13 +19,9 @@ ronak = {
     degree       : "B.Tech CSE  |  Parul University  |  2023-27",
     role         : "Full-Stack Developer",
     focus        : ["Web Development", "DSA", "Cloud/DevOps"],
-    fun_fact     : "I debug better with coffee ☕"
+    fun_fact     : "I debug better with tea ☕"
 }
 ```
-
-> Replace the placeholders above (college, years, focus, fun fact) with your own details.
-
----
 
 ### 🛠️ Tech Arsenal
 
@@ -53,11 +49,6 @@ ronak = {
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-> Add or remove badges from [shields.io](https://shields.io) / [Simple Icons](https://simpleicons.org) to match your actual stack.
-
----
-
-> Swap these rows in for your real projects (link the repo name to its URL, e.g. `[cd-lab](https://github.com/RonakPrajapati26/cd-lab)`).
 
 ---
 
