@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Ronak Prajapati 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%F0%9F%92%BB;Student+%40+Your+parul+university;Always+Learning+New+Tech+%F0%9F%9A%80;Open+to+Collaborations!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Developer+%F0%9F%92%BB;Student+%40+parul+university;Always+Learning+New+Tech+%F0%9F%9A%80;Open+to+Collaborations!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </p>
 
 <p align="center">
